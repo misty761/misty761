@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misty761
 - 👀 I’m interested in developing game
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : send email to misty7610@ymail.com
 
